@@ -40,4 +40,4 @@ The shell prints the current working directory as part of its prompt and then wa
 
 ## Limitations
 
-The code includes placeholders for `fg`, `bg`, and `kill`, so job-control support is only partially implemented. This is best understood as a systems programming exercise rather than a full Bash replacement.
+The code includes placeholders for `fg`, `bg`, and `kill`, i.e job-control is only partially implemented.
